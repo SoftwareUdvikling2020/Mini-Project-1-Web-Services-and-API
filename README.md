@@ -6,9 +6,9 @@
 
 ### The application’s development and implementation:  
   
-The application can convert temperatures from celsius to fahrenheit and back. 
-The application can be used by a rest service.  
-The convertion is made by the application by requesting a SOAP service.
+- The application can convert temperatures from celsius to fahrenheit and back.  
+- The application can be used by a rest service.  
+- The convertion is made by the application by requesting a SOAP service.  
   
 ### installation instructions  
   
