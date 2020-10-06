@@ -11,8 +11,9 @@ Have you ever had a hard time converting celsius to fahrenheit or vice versa? If
     
 - The application can convert temperatures from celsius to fahrenheit and back.  
 
-We have made the frontend/client application in angular and the rest service in java with springboot. 
+We have made the frontend/client application in angular and the rest service in java with springboot.  
 The rest service is making the temperature convertion by asking an open SOAP service from w3  
+SOAP implementation is made with java.net library  
   
 ### installation instructions  
     
