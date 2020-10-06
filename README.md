@@ -12,4 +12,4 @@
   
 ### installation instructions  
   
-Run the application through intellij (Developed with java 11 and Spring boot 2.3.4)  
+Run the application through intellij (Developed with java 11 and Spring boot 2.3.4)   
