@@ -19,5 +19,5 @@ The rest service is making the temperature convertion by asking an open SOAP ser
 For testing this project, you wil only need to run the backend. The frontend is deployed for you [click her to see it!](https://softwareudvikling2020.github.io/Mini-Project-1-Front/)  
 Run the rest service through intellij (Developed with java 11 and Spring boot 2.3.4)   
 
-source code for the rest service can be forund in this repo 
+source code for the rest service can be forund in this repo  
 source code for the frontend/client application can be forund [here](https://github.com/SoftwareUdvikling2020/Mini-Project-1-Front)
