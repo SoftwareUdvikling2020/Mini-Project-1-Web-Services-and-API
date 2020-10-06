@@ -7,7 +7,7 @@
 ### The application’s development and implementation:  
 
 **Business context:**  
-Have you ever had a hard time converting celsius to fahrenheit or vice versa? IF yes, then this project is for you!  
+Have you ever had a hard time converting celsius to fahrenheit or vice versa? If yes, then this project is for you!  
     
 - The application can convert temperatures from celsius to fahrenheit and back.  
 
